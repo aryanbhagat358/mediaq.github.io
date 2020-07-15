@@ -77,13 +77,13 @@ p {
 
 @media screen and (min-width: 992px) {
    body {
-      background-color: red;
+      /* background-color: red; */
    }
 }
 
 @media screen and (min-width: 786px) and (max-width: 991px) {
    body {
-      background-color: blue;
+      /* background-color: blue; */
    }
 
    #sec1 {
@@ -112,7 +112,7 @@ p {
 
 @media screen and (max-width: 785px) {
    body {
-      background-color: yellow;
+      /* background-color: yellow; */
    }
 
    .sec {
